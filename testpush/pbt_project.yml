@@ -24,6 +24,19 @@ pipelines:
       outputs: []
     subgraphs: []
     dependencies: {}
+  pipelines/pip:
+    name: pip
+    description: ''
+    author: aryan.param+team1@prophecy.io
+    mode: batch
+    artefactID: ''
+    language: python
+    createdAt: '2025-04-25 09:33:46'
+    datasets:
+      inputs: []
+      outputs: []
+    subgraphs: []
+    dependencies: {}
 datasets: {}
 templates: {}
 jobs: {}
