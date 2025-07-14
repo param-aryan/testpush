@@ -1,6 +1,6 @@
 name: bump
 description: ''
-version: 1.0.0
+version: 2.0.0
 author: aryan.param+team1@prophecy.io
 language: sql
 buildSystem: ''
